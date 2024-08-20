@@ -14,7 +14,8 @@ Generally a good starting point.
 
 **General scope**
 
-- Gawlikowski et al. A survey of uncertainty in deep neural networks [[Artificial Intelligence Review 2023]](https://link.springer.com/article/10.1007/s10462-023-10562-9) - [[GitHub]](<https://github.com/JakobCode/UncertaintyInNeuralNetworks_Resources>) 
+- Gawlikowski et al. A survey of uncertainty in deep neural networks [[Artificial Intelligence Review 2023]](https://link.springer.com/article/10.1007/s10462-023-10562-9) - [[GitHub]](<https://github.com/JakobCode/UncertaintyInNeuralNetworks_Resources>)
+- Zhou et al. A survey on epistemic (model) uncertainty in supervised learning: Recent advances and applications. [[Neurocomputing 2022]](https://www.sciencedirect.com/science/article/abs/pii/S0925231221019068)
 - Abdar et al. A review of uncertainty quantification in deep learning: Techniques, applications and challenges [[Information Fusion 2021]](<https://www.sciencedirect.com/science/article/pii/S1566253521001081>)
 - Hüllermeier & Willem Waegeman. Aleatoric and epistemic uncertainty in machine learning: an introduction to concepts and methods [[Machine Learning 2021]](<https://link.springer.com/article/10.1007/s10994-021-05946-3>)
 
@@ -53,4 +54,11 @@ Applications
 - Hu et al. Supervised Uncertainty Quantification for Segmentation with Multiple Annotations. [[MICCAI 2019]](https://link.springer.com/chapter/10.1007/978-3-030-32245-8_16)
 - Jungo et al. On the Effect of Inter-observer Variability for a Reliable Estimation of Uncertainty of Medical Image Segmentation. [[MICCAI 2018]](https://link.springer.com/chapter/10.1007/978-3-030-00928-1_77)
 - Kohl et al. A Probabilistic U-Net for Segmentation of Ambiguous Images [[NeurIPS 2018]](https://proceedings.neurips.cc/paper_files/paper/2018/file/473447ac58e1cd7e96172575f48dca3b-Paper.pdf)
-  
+
+### III. Regression
+
+**Super-resolution Reconstuction**
+
+- Angelopoulos et al. Image-to-Image Regression with Distribution-Free Uncertainty Quantification and Applications in Imaging. [[ICML 2022]](https://proceedings.mlr.press/v162/angelopoulos22a/angelopoulos22a.pdf)
+- Qin et al. Super-Resolved q-Space deep learning with uncertainty quantification. [[Medical Image Analysis 2021]](https://www.sciencedirect.com/science/article/abs/pii/S1361841520302498?via%3Dihub)
+- Tanno et al. Bayesian Image Quality Transfer. [[MICCAI 2016]](https://link.springer.com/chapter/10.1007/978-3-319-46723-8_31)
