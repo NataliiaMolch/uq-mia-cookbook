@@ -5,9 +5,9 @@ A collection of useful references to help you start your journey with uncertaint
 Other cookbooks
 ---
 
-[Awesome uncertainty in Deep Learning](https://github.com/ENSTA-U2IS-AI/awesome-uncertainty-deeplearning)
-[UQ in DL](https://github.com/AlaaLab/deep-learning-uncertainty)
-[UQ in DL](https://arxiv.org/abs/2405.20550)
+- [Awesome uncertainty in Deep Learning](https://github.com/ENSTA-U2IS-AI/awesome-uncertainty-deeplearning)
+- [UQ in DL](https://github.com/AlaaLab/deep-learning-uncertainty)
+- [UQ in DL](https://arxiv.org/abs/2405.20550)
 
 Reviews and surveys
 ---
