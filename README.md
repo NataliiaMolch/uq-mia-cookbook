@@ -5,7 +5,9 @@ A collection of useful references.
 Other cookbooks
 ---
 
-[UQ in DL Cookbook](https://github.com/ENSTA-U2IS-AI/awesome-uncertainty-deeplearning)
+[Awesome uncertainty in Deep Learning](https://github.com/ENSTA-U2IS-AI/awesome-uncertainty-deeplearning)
+[UQ in DL](https://github.com/AlaaLab/deep-learning-uncertainty)
+[UQ in DL](https://arxiv.org/abs/2405.20550)
 
 Reviews and surveys
 ---
@@ -49,7 +51,7 @@ Applications
 - Wang et al. Aleatoric uncertainty estimation with test-time augmentation for medical image segmentation with convolutional neural networks. [[Neurocomputing 2019]](https://www.sciencedirect.com/science/article/pii/S0925231219301961)
 - McClure et al. Knowing What You Know in Brain Segmentation Using Bayesian Deep Neural Networks [[Frontiers Neuroinform 2019]](https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.2019.00067/full)
 
-**Inter-rater variability modelling**
+**Inter-Rater Variability Modelling**
 - Baumgartner et al. PHiSeg: Capturing Uncertainty in Medical Image Segmentation. [[MICCAI 2019]](https://link.springer.com/chapter/10.1007/978-3-030-32245-8_14)
 - Hu et al. Supervised Uncertainty Quantification for Segmentation with Multiple Annotations. [[MICCAI 2019]](https://link.springer.com/chapter/10.1007/978-3-030-32245-8_16)
 - Jungo et al. On the Effect of Inter-observer Variability for a Reliable Estimation of Uncertainty of Medical Image Segmentation. [[MICCAI 2018]](https://link.springer.com/chapter/10.1007/978-3-030-00928-1_77)
@@ -57,7 +59,7 @@ Applications
 
 ### III. Regression
 
-**Super-resolution Reconstuction**
+**Super-Resolution Reconstuction**
 
 - Angelopoulos et al. Image-to-Image Regression with Distribution-Free Uncertainty Quantification and Applications in Imaging. [[ICML 2022]](https://proceedings.mlr.press/v162/angelopoulos22a/angelopoulos22a.pdf)
 - Qin et al. Super-Resolved q-Space deep learning with uncertainty quantification. [[Medical Image Analysis 2021]](https://www.sciencedirect.com/science/article/abs/pii/S1361841520302498?via%3Dihub)
