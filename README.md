@@ -1,6 +1,6 @@
 # Cookbook on Uncertainty Quantification in Medical Image Analysis
 
-A collection of useful references.
+A collection of useful references to help you start your journey with uncertainty quantification (UQ) in medical image analysis (MIA).
 
 Other cookbooks
 ---
@@ -11,8 +11,6 @@ Other cookbooks
 
 Reviews and surveys
 ---
-
-Generally a good starting point.
 
 **General scope** _(Source: [Awesome uncertainty in Deep Learning](https://github.com/ENSTA-U2IS-AI/awesome-uncertainty-deeplearning))_
 
