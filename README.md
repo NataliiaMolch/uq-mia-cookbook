@@ -30,3 +30,16 @@ Generally a good starting point.
 - Seoni et al. Application of uncertainty quantification to artificial intelligence in healthcare: A review of last decade (2013–2023). [[Computers in Biology and Medicine 2023]](https://www.sciencedirect.com/science/article/pii/S001048252300906X#bib20)
 - Loftus et al. Uncertainty-aware deep learning in healthcare: A scoping review. [[PLOS Digit Health 2022]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9802673/)
 - Broekhuizen et al. A Review and Classification of Approaches for Dealing with Uncertainty in Multi-Criteria Decision Analysis for Healthcare Decisions. [[PharmacoEconomics 2015]](https://link.springer.com/article/10.1007/s40273-014-0251-x)
+
+Applications
+---
+
+**Quality Control in Segmentation**
+
+- McClure et al. Knowing What You Know in Brain Segmentation Using Bayesian Deep Neural Networks [[Frontiers Neuroinform 2019]](https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.2019.00067/full)
+- Gonzalez et al. Distance-based detection of out-of-distribution silent failures for covid-19 lung lesion segmentation. [[Medical Image Analysis 2022]](https://www.sciencedirect.com/science/article/pii/S1361841522002298)
+- Roy et al. Bayesian quicknat: Model uncertainty in deep whole-brain segmentation for structure-wise quality control. [[NeuroImage 2019]](https://www.sciencedirect.com/science/article/pii/S1053811919302319)
+- Jungo et al. Analyzing the quality and challenges of uncertainty estimations for brain tumor segmentation. [[Frontiers Neuroscience 2020]](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2020.00282/full)
+- Graham et al. Mild-net: Minimal information loss dilated network for gland instance segmentation in colon histology images. [[Medical Image Analysis 2019]](https://www.sciencedirect.com/science/article/abs/pii/S1361841518306030)
+- Wang et al. Aleatoric uncertainty estimation with test-time augmentation for medical image segmentation with convolutional neural networks. [[Neurocomputing 2019]](https://www.sciencedirect.com/science/article/pii/S0925231219301961)
+
