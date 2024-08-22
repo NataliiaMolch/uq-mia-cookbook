@@ -1,4 +1,4 @@
-# Cookbook on Uncertainty Quantification in Medical Image Analysis
+# _(In Preparation)_ Cookbook on Uncertainty Quantification in Medical Image Analysis
 
 A collection of useful references to help you start your journey with uncertainty quantification (UQ) in medical image analysis (MIA).
 
