@@ -81,8 +81,8 @@ _(Source: Google Scholar)_
 **Out-of-distribution detection**
 
 _(Source: Google Scholar)_
+
 - Linmans et al. Predictive uncertainty estimation for out-of-distribution detection in digital pathology. [[Medical Image Analysis 2023]](https://doi.org/10.1016/j.media.2022.102655)
-- 
 
 ### II. Segmentation
 
