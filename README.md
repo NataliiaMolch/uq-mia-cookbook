@@ -10,6 +10,7 @@ Other cookbooks
 - Awesome uncertainty in Deep Learning [[GitHub]](https://github.com/ENSTA-U2IS-AI/awesome-uncertainty-deeplearning)
 - UQ in DL [[GitHub]](https://github.com/AlaaLab/deep-learning-uncertainty)
 - ~~Mathy~~ UQ in DL [[ArXiv 2024]](https://arxiv.org/abs/2405.20550)
+- Awesome Conformal Prediction [[GitHub]](https://github.com/valeman/awesome-conformal-prediction.git)
 
 Tutorials
 ---
