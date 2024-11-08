@@ -14,7 +14,7 @@ These MICCAI 2024 papers present various methods for uncertainty quantification 
 
 3. Confidence and Calibration Enhancements: Innovations in confidence estimation and network calibration tackle overconfidence in neural networks. Methods such as informed label smoothing (LS+) and region-adaptive constraints (CRaC) enhance calibration, ensuring confidence scores better reflect prediction certainty, which is critical in medical applications.
 
-4. Bayesian and Ensemble Methods: Sparse Bayesian networks and deep ensembles provide robust uncertainty estimates. Sparse Bayesian networks combine deterministic and Bayesian parameters to optimize computation without compromising predictive reliability, making them feasible for real-time applications.
+4. New methods for UQ: Sparse Bayesian networks and Laplacian Segmentation Network provide robust uncertainty estimates. Sparse Bayesian networks combine deterministic and Bayesian parameters to optimize computation without compromising predictive reliability, making them feasible for real-time applications. Laplace approximations for epistemic uncertainty quantification has been proposed for image segmentation tasks.
 
 5. Datasets and Frameworks for Uncertainty Modeling: Contributions like the SkinCON dataset and DRAPS framework address variability in expert classifications by offering adaptive prediction sets, especially valuable for conditions like skin cancer diagnosis where labeling discrepancies are common.
 
@@ -57,6 +57,12 @@ These MICCAI 2024 papers present various methods for uncertainty quantification 
 - Contributions: The authors introduce a large dataset (SkinCON) containing instance-level class distributions for skin cancer images. This dataset is unique because it captures the variability in how different experts would classify a given image. By leveraging SkinCON, the authors propose a novel method (DRAPS) for estimating uncertainty in skin cancer diagnosis. 
 - UQ: distribution regularized adaptive prediction sets (DRAPS)
 - [Website](https://skincon.github.io/) with code, data, poster, and paper
+
+  **Laplacian Segmentation Networks Improve Epistemic Uncertainty Quantification**
+  - Authors: Kilian Zepf, Selma Wanna, Marco Miani, Juston Moore, Jes Frellsen, Søren Hauberg, Frederik Warburg, Aasa Feragen
+- Contributions: This work proposes Laplacian Segmentation Networks (LSN): methods which jointly model epistemic (model) and aleatoric (data) uncertainty for OOD detection. Laplace approximation of the weight posterior is proposed for large neural networks with skip connections that have high-dimensional outputs.
+- UQ: Laplace approximation
+- [Github](https://github.com/kilianzepf/laplacian_segmentation.git)
 
 #conformal
 
