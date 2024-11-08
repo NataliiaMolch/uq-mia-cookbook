@@ -58,8 +58,8 @@ These MICCAI 2024 papers present various methods for uncertainty quantification 
 - UQ: distribution regularized adaptive prediction sets (DRAPS)
 - [Website](https://skincon.github.io/) with code, data, poster, and paper
 
-  **Laplacian Segmentation Networks Improve Epistemic Uncertainty Quantification**
-  - Authors: Kilian Zepf, Selma Wanna, Marco Miani, Juston Moore, Jes Frellsen, Søren Hauberg, Frederik Warburg, Aasa Feragen
+**Laplacian Segmentation Networks Improve Epistemic Uncertainty Quantification**
+- Authors: Kilian Zepf, Selma Wanna, Marco Miani, Juston Moore, Jes Frellsen, Søren Hauberg, Frederik Warburg, Aasa Feragen
 - Contributions: This work proposes Laplacian Segmentation Networks (LSN): methods which jointly model epistemic (model) and aleatoric (data) uncertainty for OOD detection. Laplace approximation of the weight posterior is proposed for large neural networks with skip connections that have high-dimensional outputs.
 - UQ: Laplace approximation
 - [Github](https://github.com/kilianzepf/laplacian_segmentation.git)
