@@ -69,7 +69,7 @@ Reviews and surveys
 Applications
 ---
 
-Separated by tasks (I. Classification, II. Segmentation, III. Regression) and by topics (I. Active learning, II. Domain adapration, III. ).
+Separated by tasks (I. Classification, II. Segmentation, III. Regression) and by topics.
 
 ### I. Classification
 
