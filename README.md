@@ -77,13 +77,13 @@ Separated by tasks (I. Classification, II. Segmentation, III. Regression) and by
   
   _(Source: Google Scholar)_
   
-    - Kurz et al. Uncertainty Estimation in Medical Image Classification: Systematic Review. [[JMIR Medical Informatics 2022]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9382553/)
+  - Kurz et al. Uncertainty Estimation in Medical Image Classification: Systematic Review. [[JMIR Medical Informatics 2022]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9382553/)
   
   **Out-of-distribution detection**
   
-    _(Source: Google Scholar)_
-    
-    - Linmans et al. Predictive uncertainty estimation for out-of-distribution detection in digital pathology. [[Medical Image Analysis 2023]](https://doi.org/10.1016/j.media.2022.102655)
+  _(Source: Google Scholar)_
+  
+  - Linmans et al. Predictive uncertainty estimation for out-of-distribution detection in digital pathology. [[Medical Image Analysis 2023]](https://doi.org/10.1016/j.media.2022.102655)
 
 ### II. Segmentation
 
@@ -95,41 +95,42 @@ Separated by tasks (I. Classification, II. Segmentation, III. Regression) and by
   
   **Quality Control**
   
-    _(Source: Lambert et al., 2024)_
-    
-    - Gonzalez et al. Distance-based detection of out-of-distribution silent failures for covid-19 lung lesion segmentation. [[Medical Image Analysis 2022]](https://www.sciencedirect.com/science/article/pii/S1361841522002298)
-    - Jungo et al. Analyzing the quality and challenges of uncertainty estimations for brain tumor segmentation. [[Frontiers Neuroscience 2020]](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2020.00282/full)
-    - Roy et al. Bayesian quicknat: Model uncertainty in deep whole-brain segmentation for structure-wise quality control. [[NeuroImage 2019]](https://www.sciencedirect.com/science/article/pii/S1053811919302319)
-    - Graham et al. Mild-net: Minimal information loss dilated network for gland instance segmentation in colon histology images. [[Medical Image Analysis 2019]](https://www.sciencedirect.com/science/article/abs/pii/S1361841518306030)
-    - Wang et al. Aleatoric uncertainty estimation with test-time augmentation for medical image segmentation with convolutional neural networks. [[Neurocomputing 2019]](https://www.sciencedirect.com/science/article/pii/S0925231219301961)
-    - McClure et al. Knowing What You Know in Brain Segmentation Using Bayesian Deep Neural Networks [[Frontiers Neuroinform 2019]](https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.2019.00067/full)
+  _(Source: Lambert et al., 2024)_
+  
+  - Gonzalez et al. Distance-based detection of out-of-distribution silent failures for covid-19 lung lesion segmentation. [[Medical Image Analysis 2022]](https://www.sciencedirect.com/science/article/pii/S1361841522002298)
+  - Jungo et al. Analyzing the quality and challenges of uncertainty estimations for brain tumor segmentation. [[Frontiers Neuroscience 2020]](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2020.00282/full)
+  - Roy et al. Bayesian quicknat: Model uncertainty in deep whole-brain segmentation for structure-wise quality control. [[NeuroImage 2019]](https://www.sciencedirect.com/science/article/pii/S1053811919302319)
+  - Graham et al. Mild-net: Minimal information loss dilated network for gland instance segmentation in colon histology images. [[Medical Image Analysis 2019]](https://www.sciencedirect.com/science/article/abs/pii/S1361841518306030)
+  - Wang et al. Aleatoric uncertainty estimation with test-time augmentation for medical image segmentation with convolutional neural networks. [[Neurocomputing 2019]](https://www.sciencedirect.com/science/article/pii/S0925231219301961)
+  - McClure et al. Knowing What You Know in Brain Segmentation Using Bayesian Deep Neural Networks [[Frontiers Neuroinform 2019]](https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.2019.00067/full)
   
   **Inter-Rater Variability Modelling** 
   
-    _(Source: Lambert et al., 2024)_
-    
-    - Baumgartner et al. PHiSeg: Capturing Uncertainty in Medical Image Segmentation. [[MICCAI 2019]](https://link.springer.com/chapter/10.1007/978-3-030-32245-8_14)
-    - Hu et al. Supervised Uncertainty Quantification for Segmentation with Multiple Annotations. [[MICCAI 2019]](https://link.springer.com/chapter/10.1007/978-3-030-32245-8_16)
-    - Jungo et al. On the Effect of Inter-observer Variability for a Reliable Estimation of Uncertainty of Medical Image Segmentation. [[MICCAI 2018]](https://link.springer.com/chapter/10.1007/978-3-030-00928-1_77)
-    - Kohl et al. A Probabilistic U-Net for Segmentation of Ambiguous Images [[NeurIPS 2018]](https://proceedings.neurips.cc/paper_files/paper/2018/file/473447ac58e1cd7e96172575f48dca3b-Paper.pdf)
+  _(Source: Lambert et al., 2024)_
+  
+  - Baumgartner et al. PHiSeg: Capturing Uncertainty in Medical Image Segmentation. [[MICCAI 2019]](https://link.springer.com/chapter/10.1007/978-3-030-32245-8_14)
+  - Hu et al. Supervised Uncertainty Quantification for Segmentation with Multiple Annotations. [[MICCAI 2019]](https://link.springer.com/chapter/10.1007/978-3-030-32245-8_16)
+  - Jungo et al. On the Effect of Inter-observer Variability for a Reliable Estimation of Uncertainty of Medical Image Segmentation. [[MICCAI 2018]](https://link.springer.com/chapter/10.1007/978-3-030-00928-1_77)
+  - Kohl et al. A Probabilistic U-Net for Segmentation of Ambiguous Images [[NeurIPS 2018]](https://proceedings.neurips.cc/paper_files/paper/2018/file/473447ac58e1cd7e96172575f48dca3b-Paper.pdf)
   
   **Human evaluation**
-  
-    - Evans et al. The explainability paradox: Challenges for xAI in digital pathology. [[Future Genertion Computer Systems 2022]](https://doi.org/10.1016/j.future.2022.03.009)
+
+  - Huet-Dastarac et al. Quantifying and visualising uncertainty in deep learning-based segmentation for radiation therapy treatment planning: What do radiation oncologists and therapists want? [[Radiother. Oncol.]](https://doi.org/10.1016/j.radonc.2024.110545)
+  - Evans et al. The explainability paradox: Challenges for xAI in digital pathology. [[Future Genertion Computer Systems 2022]](https://doi.org/10.1016/j.future.2022.03.009)
   
   **Domain Adaptation**
   
-    - Xia et al. Uncertainty-aware multi-view co-training for semi-supervised medical image segmentation and domain adaptation. [[Medical Image Analysis 2020]](https://doi.org/10.1016/j.media.2020.101766)
+  - Xia et al. Uncertainty-aware multi-view co-training for semi-supervised medical image segmentation and domain adaptation. [[Medical Image Analysis 2020]](https://doi.org/10.1016/j.media.2020.101766)
 
 ### III. Regression
 
   **Super-Resolution Reconstuction** 
   
-    _(Source: Google Scholar)_
-    
-    - Angelopoulos et al. Image-to-Image Regression with Distribution-Free Uncertainty Quantification and Applications in Imaging. [[ICML 2022]](https://proceedings.mlr.press/v162/angelopoulos22a/angelopoulos22a.pdf)
-    - Qin et al. Super-Resolved q-Space deep learning with uncertainty quantification. [[Medical Image Analysis 2021]](https://www.sciencedirect.com/science/article/abs/pii/S1361841520302498?via%3Dihub)
-    - Tanno et al. Bayesian Image Quality Transfer. [[MICCAI 2016]](https://link.springer.com/chapter/10.1007/978-3-319-46723-8_31)
+  _(Source: Google Scholar)_
+  
+  - Angelopoulos et al. Image-to-Image Regression with Distribution-Free Uncertainty Quantification and Applications in Imaging. [[ICML 2022]](https://proceedings.mlr.press/v162/angelopoulos22a/angelopoulos22a.pdf)
+  - Qin et al. Super-Resolved q-Space deep learning with uncertainty quantification. [[Medical Image Analysis 2021]](https://www.sciencedirect.com/science/article/abs/pii/S1361841520302498?via%3Dihub)
+  - Tanno et al. Bayesian Image Quality Transfer. [[MICCAI 2016]](https://link.springer.com/chapter/10.1007/978-3-319-46723-8_31)
   
 
 
