@@ -124,10 +124,11 @@ Separated by tasks (I. Classification, II. Segmentation, III. Regression) and by
 
 ### III. Regression
 
-  **Super-Resolution Reconstuction** 
+  **Super-Resolution Reconstruction** 
   
   _(Source: Google Scholar)_
   
+  - Dey et al. Uncertainty estimation using boundary prediction for medical image super-resolution. [[Computer Vision and Image Understanding 2025]](https://doi.org/10.1016/j.cviu.2025.104349)
   - Angelopoulos et al. Image-to-Image Regression with Distribution-Free Uncertainty Quantification and Applications in Imaging. [[ICML 2022]](https://proceedings.mlr.press/v162/angelopoulos22a/angelopoulos22a.pdf)
   - Qin et al. Super-Resolved q-Space deep learning with uncertainty quantification. [[Medical Image Analysis 2021]](https://www.sciencedirect.com/science/article/abs/pii/S1361841520302498?via%3Dihub)
   - Tanno et al. Bayesian Image Quality Transfer. [[MICCAI 2016]](https://link.springer.com/chapter/10.1007/978-3-319-46723-8_31)
