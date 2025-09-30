@@ -2,7 +2,7 @@
 
 A collection of useful references to help you start your journey with uncertainty quantification (UQ) in medical image analysis (MIA).
 
-We are continuing the work on updating the cookbook and your pull requests will be highly appreciated !
+We are continuing the work on updating the cookbook, and your pull requests will be highly appreciated!
 
 Other cookbooks
 ---
@@ -15,7 +15,7 @@ Other cookbooks
 Tutorials
 ---
 
-- UQ in MIA at MICCAI 2023 and 2024 [[GitHub]](https://github.com/agaldran/uqinmia-miccai-2023)
+- UQ in MIA at MICCAI 2023, 2024, 2025 [[GitHub]](https://github.com/agaldran/uqinmia-miccai)
 - UQ in ML for Engineering design and medical prognostics: A Tutorial [[GitHuB]](https://github.com/VNemani14/UQ_ML_Tutorial)
 - Calibrated uncertainty for regression [[GutHub]](https://github.com/mlaves/well-calibrated-regression-uncertainty)
 
@@ -90,7 +90,8 @@ Separated by tasks (I. Classification, II. Segmentation, III. Regression) and by
   **General**
   
   _(Source: Google Scholar)_
-  
+
+  - Valiuddin. A Review of Bayesian Uncertainty Quantification in Deep Probabilistic Image Segmentation. [[Arxiv 2024]](https://arxiv.org/abs/2411.16370)
   - Zepf. Aleatoric and Epistemic Uncertainty in Image Segmentation. [[PhD Thesis]](https://backend.orbit.dtu.dk/ws/portalfiles/portal/376365025/phd_thesis_kilian_zepf.pdf)
   
   **Quality Control**
