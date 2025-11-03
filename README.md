@@ -10,6 +10,7 @@ Other cookbooks
 - Awesome uncertainty in Deep Learning [[GitHub]](https://github.com/ENSTA-U2IS-AI/awesome-uncertainty-deeplearning)
 - UQ in DL [[GitHub]](https://github.com/AlaaLab/deep-learning-uncertainty)
 - ~~Mathy~~ UQ in DL [[ArXiv 2024]](https://arxiv.org/abs/2405.20550)
+- Awesome MIA Conformal [[GitHub]](https://github.com/jusiro/FCA/blob/main/docs/awesome-mia-conformal.md)
 - Awesome Conformal Prediction [[GitHub]](https://github.com/valeman/awesome-conformal-prediction.git)
 
 Tutorials
@@ -18,6 +19,7 @@ Tutorials
 - UQ in MIA at MICCAI 2023, 2024, 2025 [[GitHub]](https://github.com/agaldran/uqinmia-miccai)
 - UQ in ML for Engineering design and medical prognostics: A Tutorial [[GitHuB]](https://github.com/VNemani14/UQ_ML_Tutorial)
 - Calibrated uncertainty for regression [[GutHub]](https://github.com/mlaves/well-calibrated-regression-uncertainty)
+- Conformal Prediction for VLMs in MIA [[GitHub]]()
 
 Software
 ---
@@ -134,5 +136,15 @@ Separated by tasks (I. Classification, II. Segmentation, III. Regression) and by
   - Qin et al. Super-Resolved q-Space deep learning with uncertainty quantification. [[Medical Image Analysis 2021]](https://www.sciencedirect.com/science/article/abs/pii/S1361841520302498?via%3Dihub)
   - Tanno et al. Bayesian Image Quality Transfer. [[MICCAI 2016]](https://link.springer.com/chapter/10.1007/978-3-319-46723-8_31)
   
+### IV. Multi-Modal or Vision-Language Models
 
+_Source: Expert Contributor_
+
+**Conformal prediction in medical contrastive VLMs**
+
+Silva-Rodríguez et al. Full Conformal Adaptation of Medical Vision-Language Models. [[IPMI'25]](https://github.com/jusiro/FCA)
+
+**Calibration of medical VLMs**
+
+Marza et al. THUNDER: Tile-level Histopathology image UNDERstanding benchmark, [[NeurIPS 2025 Datasets and Benchmarks Track]](https://arxiv.org/abs/2507.07860)
 
